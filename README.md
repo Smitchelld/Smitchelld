@@ -18,4 +18,4 @@ Embedded systems and IoT
 
 Strona z której pochodzi:
 
-[link]()
+[link](https://paperswithcode.com/paper/hugginggpt-solving-ai-tasks-with-chatgpt-and)
