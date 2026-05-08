@@ -6,7 +6,7 @@ C++ • AI • Graphics • Systems Programming • PQC
 ```
 
 <p align="left">
-  <a href="https://smitchelld.github.io/">Portfolio</a> •
+  <a href="https://smitchelld.github.io/">My Website</a> •
   <a href="mailto:szymonkow024@gmail.com">Contact</a>
 </p>
 
